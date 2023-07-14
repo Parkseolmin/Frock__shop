@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe2%2Fe8%2Fe2e8d85de963c3ac53f6ab09094fa09fef12326e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "Single-breasted Jacket",
+      "price": 59900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 1,
+      "img": "https://static.zara.net/photos///2023/I/0/1/p/2753/330/052/17/w/563/2753330052_1_1_1.jpg?ts=1686905693855",
+      "title": "Double-breasted Jacket",
+      "price": 79900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 2,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F78%2F40%2F784064b5d653df57c44916c775097a8bc12fd55b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "Belted Skinny Low Jeans",
+      "price": 49900,
+      "choice": false,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 3,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F67%2Fca%2F67ca80fc09e351d066fa194fe3aac6a3d86e588f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "Twist Flower-detail Dress",
+      "price": 39900,
+      "choice": false,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 4,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe8%2Fa7%2Fe8a79e15e2d765c8f9f91b853b1eb8f7e25ff8b3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "Tie-detail Cotton Dress",
+      "price": 39900,
+      "choice": true,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 5,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F48%2Fa8%2F48a85ee6c9d9a5591db7feab9ae8224ed6a15a97.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "Simple Linen-blend Shirt",
+      "price": 39900,
+      "choice": false,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 6,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F71%2F2d%2F712d8c44fcb0c6fc3fcf65d539dfd346fe611f29.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "Crop Denim Jacket",
+      "price": 39900,
+      "choice": true,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 7,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6e%2Fab%2F6eab614934225593aba6da874fd09cec7edb8d83.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "Oversized Sweatshirt",
+      "price": 99900,
+      "choice": false,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 8,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb8%2Fa0%2Fb8a0022c46794f552bc50ae5f8ccf27fcc1ac531.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "Crêped Wrap-front Dress",
+      "price": 14900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 9,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F15%2F0c%2F150c0aab20aaab6ee2db11b0a1c9631a93cac5eb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "Rib-knit Cardigan",
+      "price": 39900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 10,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F45%2F40%2F454017840306347cf4e12b5b1e42401afc2fac82.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "Linen-blend Sequined Leggings",
+      "price": 19900,
+      "choice": true,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 11,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fec%2Fcd%2Feccdc76ee6f90c8d83b8c9de74ecf54854d64842.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "Flare Low Jeans",
+      "price": 29900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 12,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff7%2Fc4%2Ff7c4198e18044258ea4cd45a0def5d5a5ebdf883.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "Glitter Oversize Jacket",
+      "price": 149000,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 13,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb5%2F4b%2Fb54b698c8166f11679705a5ae3af0944456eec3f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "Slit hem denim skirt",
+      "price": 29900,
+      "choice": false,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 14,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F62%2F23%2F6223b49a6aaa937926205d275cb620c6dc5aa5b3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "Twist-detail Off-the-shoulder Jumpsuit",
+      "price": 59900,
+      "choice": false,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 15,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe1%2F96%2Fe1962f326ec85b935bd60fba02198c0458528db2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "Flower A-line skirt",
+      "price": 89900,
+      "choice": true,
+      "new": false,
+      "size": ["S", "M", "L"]
+    }
+  ]
+}
