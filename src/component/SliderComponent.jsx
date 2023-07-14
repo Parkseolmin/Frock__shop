@@ -126,7 +126,7 @@ const SliderComponent = () => {
           ></div>
           <div
             style={{
-              backgroundImage: `url(${process.env.PUBLIC_URL}/img/slider4.png)`,
+              backgroundImage: `url(${process.env.PUBLIC_URL}/img/slider4.jpg)`,
             }}
           ></div>
         </div>
