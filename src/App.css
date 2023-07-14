@@ -230,7 +230,9 @@ button:focus {
   text-align: center;
 }
 
-.sidebar__text,
+.sidebar__text {
+  font-family: var(--font-style-one);
+}
 .sidebar__text__phrases {
   font-family: var(--font-style-one);
 }
