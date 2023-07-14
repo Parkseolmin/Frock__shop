@@ -77,8 +77,10 @@ const SliderComponent = () => {
                 'linear-gradient(90deg, rgba(189,195,199,1) 0%, rgba(44,62,80,1) 50%, rgba(44,62,80,1) 100%)',
             }}
           >
-            <h1>Sunset</h1>
-            <p>awesome. love. creative.</p>
+            <h1 className='sidebar__text'>Sunset Serenade</h1>
+            <p className='sidebar__text__phrases'>
+              Embracing the Magic of Dusk
+            </p>
           </div>
           <div
             style={{
@@ -86,8 +88,10 @@ const SliderComponent = () => {
                 'linear-gradient(90deg, rgba(154,132,120,1) 0%, rgba(154,132,120,1) 50%, rgba(30,19,12,1) 100%)',
             }}
           >
-            <h1>Magic Trees</h1>
-            <p>awesome. love. creative.</p>
+            <h1 className='sidebar__text'>Mesmerizing Harmonies</h1>
+            <p className='sidebar__text__phrases'>
+              When Art and Soul Intertwine
+            </p>
           </div>
           <div
             style={{
@@ -95,8 +99,10 @@ const SliderComponent = () => {
                 'linear-gradient(90deg, rgba(58,97,134,1) 0%, rgba(137,37,62,1) 50%, rgba(137,37,62,1) 100%)',
             }}
           >
-            <h1>Cyber Unicorns</h1>
-            <p>awesome. love. creative.</p>
+            <h1 className='sidebar__text'>Noir Whispers</h1>
+            <p className='sidebar__text__phrases'>
+              Embracing the Shadows of Creativity
+            </p>
           </div>
           <div
             style={{
@@ -104,8 +110,10 @@ const SliderComponent = () => {
                 'linear-gradient(90deg, rgba(178,159,148,1) 0%, rgba(178,159,148,1) 50%, rgba(96,56,19,1) 100%)',
             }}
           >
-            <h1>It's a FUTURE</h1>
-            <p>awesome. love. creative.</p>
+            <h1 className='sidebar__text'>Black Canvas</h1>
+            <p className='sidebar__text__phrases'>
+              Unleashing the Power of Darkness
+            </p>
           </div>
         </div>
         <div className='main-slide'>

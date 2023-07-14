@@ -230,6 +230,11 @@ button:focus {
   text-align: center;
 }
 
+.sidebar__text,
+.sidebar__text__phrases {
+  font-family: var(--font-style-one);
+}
+
 .arrow__btn {
   background-color: #fff;
   border: none;
