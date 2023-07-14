@@ -221,7 +221,7 @@ button:focus {
 }
 
 .sidebar h1 {
-  font-family: 'Poppins', sans-serif;
+  font-family: var(--font-style-one);
   font-weight: 900;
   font-size: 34px;
   margin-bottom: 10px;
@@ -230,9 +230,6 @@ button:focus {
   text-align: center;
 }
 
-.sidebar__text {
-  font-family: var(--font-style-one);
-}
 .sidebar__text__phrases {
   font-family: var(--font-style-one);
 }
