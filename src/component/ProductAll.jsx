@@ -11,8 +11,8 @@ export default function ProductAll() {
   const getProducts = async () => {
     let searchQuery = query.get('q') || '';
     console.log('쿼리값', searchQuery);
-    let url = `https://my-json-server.typicode.com/Parkseolmin/Frock__shop/products?q=${searchQuery}`; // API 엔드포인트 URL
-    // let url = `http://localhost:5000/products?q=${searchQuery}`; // API 엔드포인트 URL
+    // let url = `https://my-json-server.typicode.com/Parkseolmin/Frock__shop/products?q=${searchQuery}`; // API 엔드포인트 URL
+    let url = `http://localhost:5000/products?q=${searchQuery}`; // API 엔드포인트 URL
     let response = await fetch(url); // URL에 대한 GET 요청을 보내고 응답을 받습니다.
     let data = await response.json(); // 응답 데이터를 JSON 형식으로 변환합니다.
     setProductList(data); // productList 상태 변수를 응답 데이터로 업데이트합니다.

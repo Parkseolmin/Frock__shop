@@ -111,26 +111,22 @@ const SliderComponent = () => {
         <div className='main-slide'>
           <div
             style={{
-              backgroundImage:
-                "url('http://dhgh9590.dothome.co.kr/frock/static/media/slider1_1.20a096e71bc2256e3b79.png')",
+              backgroundImage: `url(${process.env.PUBLIC_URL}/img/slider1.png)`,
             }}
           ></div>
           <div
             style={{
-              backgroundImage:
-                "url('http://dhgh9590.dothome.co.kr/frock/static/media/slider2_1.94927a0c728ae7d90d5d.png')",
+              backgroundImage: `url(${process.env.PUBLIC_URL}/img/slider2.png)`,
             }}
           ></div>
           <div
             style={{
-              backgroundImage:
-                "url('http://dhgh9590.dothome.co.kr/frock/static/media/slider3_1.c18c50ced974b88051c9.png')",
+              backgroundImage: `url(${process.env.PUBLIC_URL}/img/slider3.png)`,
             }}
           ></div>
           <div
             style={{
-              backgroundImage:
-                "url('https://dhgh9590.github.io/forck_json/img/section2_1.jpg')",
+              backgroundImage: `url(${process.env.PUBLIC_URL}/img/slider4.png)`,
             }}
           ></div>
         </div>

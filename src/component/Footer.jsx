@@ -13,34 +13,34 @@ export default function Footer() {
           <div className='footer__links'>
             <ul className='footer__link'>
               <li>
-                <a href='#'>
+                <a href='/'>
                   <img
-                    src='http://dhgh9590.dothome.co.kr/frock/img/icon1.png'
-                    alt=''
+                    src={process.env.PUBLIC_URL + '/img/icon1.png'}
+                    alt='twitter'
                   />
                 </a>
               </li>
               <li>
-                <a href='#'>
+                <a href='/'>
                   <img
-                    src='http://dhgh9590.dothome.co.kr/frock/img/icon2.png'
-                    alt=''
+                    src={process.env.PUBLIC_URL + '/img/icon2.png'}
+                    alt='instargram'
                   />
                 </a>
               </li>
               <li>
-                <a href='#'>
+                <a href='/'>
                   <img
-                    src='	http://dhgh9590.dothome.co.kr/frock/img/icon3.png'
-                    alt=''
+                    src={process.env.PUBLIC_URL + '/img/icon3.png'}
+                    alt='facebook'
                   />
                 </a>
               </li>
               <li>
-                <a href='#'>
+                <a href='/'>
                   <img
-                    src='	http://dhgh9590.dothome.co.kr/frock/img/icon4.png'
-                    alt=''
+                    src={process.env.PUBLIC_URL + '/img/icon4.png'}
+                    alt='youtube'
                   />
                 </a>
               </li>
