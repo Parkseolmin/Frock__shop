@@ -3,21 +3,20 @@ import { Container } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faAngleDown } from '@fortawesome/free-solid-svg-icons';
 import { useParams } from 'react-router-dom';
+import { productAction } from '../redux/actions/productAction';
+import { useDispatch, useSelector } from 'react-redux';
 
 export default function ProductDetail() {
   let { id } = useParams();
-  const [product, setProduct] = useState(null);
-  const getProductDetail = async () => {
-    let url = `https://my-json-server.typicode.com/Parkseolmin/Frock__shop/products/${id}`;
-    // let url = `http://localhost:5000/products/${id}`;
+  const product = useSelector((state) => state.product.selectedItem);
+  const dispatch = useDispatch();
 
-    let response = await fetch(url);
-    let data = await response.json();
-    setProduct(data);
-  };
   useEffect(() => {
+    const getProductDetail = async () => {
+      dispatch(productAction.getProductDetail(id));
+    };
     getProductDetail();
-  }, []);
+  }, [dispatch, id]);
   return (
     <div>
       <div className='ProductDetail'>

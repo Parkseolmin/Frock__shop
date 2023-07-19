@@ -22,22 +22,22 @@ import Footer from './component/Footer';
 
 function App() {
   const [authenticate, setAuthenticate] = useState(false);
-  useEffect(() => {
-    console.log('authenticate', authenticate);
-  }, [authenticate]);
+  // useEffect(() => {
+  //   console.log('authenticate', authenticate);
+  // }, [authenticate]);
   return (
     <div>
       <Navbar />
       <Routes>
-        <Route path='/' element={<ProductAll />}></Route>
+        <Route path='/' element={<ProductAll />} />
         <Route
           path='/login'
           element={<Login setAuthenticate={setAuthenticate} />}
-        ></Route>
+        />
         <Route
-          path='/Product/:id'
+          path='/product/:id'
           element={<PrivateRoute authenticate={authenticate} />}
-        ></Route>
+        />
       </Routes>
       <Footer />
     </div>
