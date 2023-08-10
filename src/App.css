@@ -315,10 +315,13 @@ button:focus {
 
 .pro
 /* Login */
+.loginContainer {
+  margin: 5rem 0rem 10rem 0rem;
+}
 .login__background {
   background-color: #fff;
   padding: 3rem 3rem;
-  margin-top: 5rem;
+  margin: 2rem 0 2rem 0;
 }
 
 .login__input {
