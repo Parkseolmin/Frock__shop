@@ -5,7 +5,7 @@ import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
 import { useNavigate } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 
-export default function Navbar() {
+export default function Navbar({ authenticate, setAuthenticate }) {
   const navigate = useNavigate();
   const goToLogin = () => {
     navigate('/login');
@@ -31,7 +31,16 @@ export default function Navbar() {
         </div>
         <div className='login__button-group' onClick={goToLogin}>
           <FontAwesomeIcon icon={faUser} />
-          <div className='login__button'>Login</div>
+          {authenticate ? (
+            <div onClick={() => setAuthenticate(false)}>
+              <div className='login__button'>Logout</div>
+            </div>
+          ) : (
+            <div onClick={() => navigate('/login')}>
+              <div className='login__button'>Login</div>
+            </div>
+          )}
+          {/* <div className='login__button'>Login</div> */}
         </div>
       </div>
       <div className='logo'>
