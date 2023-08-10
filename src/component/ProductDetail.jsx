@@ -46,7 +46,18 @@ export default function ProductDetail() {
                   <FontAwesomeIcon icon={faAngleDown} />
                 </div>
               </div>
-              <strong>$ {product?.price}</strong>
+              <strong>Price : $ {product?.price}</strong>
+            </div>
+            <div>
+              <button className='buyButton'>구매하기</button>
+            </div>
+            <div className='product_notice'>
+              <p>
+                본 제품은 예약구매로 진행되며, 배송 기간이 약 2주에서 최대
+                3달까지 소요될 수 있습니다. <br />
+                제품 예약 기능 수명 주기가 만료 되면 주문이 취소됩니다. 세부
+                안내를 참조 바랍니다.
+              </p>
             </div>
           </div>
         </div>
