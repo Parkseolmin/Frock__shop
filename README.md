@@ -5,7 +5,9 @@ React를 이용해서 쇼핑몰 사이트의 구성을 만들어 본 사이트�
 
 ## 완성작 보기
 
-미리보기 :https://remarkable-monstera-25cfcc.netlify.app/
+미리보기 : https://remarkable-monstera-25cfcc.netlify.app/
+<p align="center"><img width="560" alt="리드미이미지" src="https://github.com/Parkseolmin/New_Portfolio/assets/76764414/1f993df9-7e2d-42a1-a0c7-fc8e29749ef4"></p>
+<p align="center"><img width="560" alt="리드미이미지2" src="https://github.com/Parkseolmin/New_Portfolio/assets/76764414/3e353f03-81cf-42d4-80a2-e4404d21c361"></p>
 
 ## 사용 스택
 
